@@ -9,4 +9,4 @@ Jдностраничное приложение, которое при POST з�
  - `python main.py`
  - `cd frontend`
  - `npm install`
- - `npm run server`
+ - `npm run serve`
